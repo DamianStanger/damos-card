@@ -17,27 +17,27 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('John Papa /'),
-  handle: chalk.cyan('Disney Fan'),
-  work: chalk.white('Web Developer and Full Stack Architect'),
-  twitter: chalk.cyan('https://twitter.com/john_papa'),
-  github: chalk.cyan('https://github.com/johnpapa'),
-  linkedin: chalk.cyan('https://linkedin.com/in/papajohn'),
-  web: chalk.cyan('https://johnpapa.net'),
-  npx: chalk.white('npx @johnpapa/card'),
-  labelWork: chalk.white.bold('      Work:'),
-  labelTwitter: chalk.white.bold('   Twitter:'),
-  labelGitHub: chalk.white.bold('    GitHub:'),
-  labelLinkedIn: chalk.white.bold('  LinkedIn:'),
-  labelWeb: chalk.white.bold('       Web:'),
-  labelCard: chalk.white.bold('      Card:'),
+  name: chalk.white('Damian Stanger'),
+  handle: chalk.gray('(Master Folder)'),
+  work: chalk.white('Full Stack Principal Engineer'),
+  stackoverflow: chalk.cyan('https://stackoverflow.com/users/6997335/damo'),
+  github: chalk.cyan('https://github.com/damianstanger'),
+  linkedin: chalk.cyan('https://linkedin.com/in/damianstanger'),
+  web: chalk.cyan('https://foldingair.blogspot.com'),
+  npx: chalk.white('npx damos-card'),
+  labelWork: chalk.white.bold('          Work:'),
+  labelStackOverflow: chalk.white.bold('Stack Overflow:'),
+  labelGitHub: chalk.white.bold('        GitHub:'),
+  labelLinkedIn: chalk.white.bold('      LinkedIn:'),
+  labelWeb: chalk.white.bold('           Web:'),
+  labelCard: chalk.white.bold('          Card:'),
 };
 
 // Actual strings we're going to output
 const newline = '\n';
-const heading = `${data.name} ${data.handle}`;
+const heading = ` ${data.name} ${data.handle}`;
 const working = `${data.labelWork}  ${data.work}`;
-const twittering = `${data.labelTwitter}  ${data.twitter}`;
+const stackoverflowing = `${data.labelStackOverflow}  ${data.stackoverflow}`;
 const githubing = `${data.labelGitHub}  ${data.github}`;
 const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`;
 const webing = `${data.labelWeb}  ${data.web}`;
@@ -49,7 +49,7 @@ const output = heading
   + newline
   + working
   + newline
-  + twittering
+  + stackoverflowing
   + newline
   + githubing
   + newline

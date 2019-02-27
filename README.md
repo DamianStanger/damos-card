@@ -1,23 +1,19 @@
-# John Papa's Card
+# Damian Stanger's Card
 
-It's me, John!
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/johnpapa/johbpapa-card/blob/master/LICENSE) [![npm version](https://badge.fury.io/js/%40johnpapa%2Fcard.svg)](https://www.npmjs.com/package/@johnpapa/card)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/damianstanger/damos-card/blob/master/LICENSE) [![npm version](https://badge.fury.io/js/%40damos-card%2Fcard.svg)](https://www.npmjs.com/package/damos-card)
 
 ## Usage
 
 Via npx:
 
 ```bash
-npx @johnpapa/card
+npx damos-card
 ```
-
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
 
 ## Credits
 
 Forked from Tierney Cyren's https://github.com/bnb/bitandbang
 
-![Card](https://raw.githubusercontent.com/johnpapa/johnpapa-card/master/card.gif)
+![Card](../card.gif)
 
 Badges from <https://badge.fury.io/for/js>
