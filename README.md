@@ -14,6 +14,6 @@ npx damos-card
 
 Forked from Tierney Cyren's https://github.com/bnb/bitandbang
 
-![Card](../card.gif)
+![Card](https://raw.githubusercontent.com/DamianStanger/damos-card/master/card.gif)
 
 Badges from <https://badge.fury.io/for/js>
