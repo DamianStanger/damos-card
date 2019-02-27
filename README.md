@@ -1,6 +1,6 @@
 # Damian Stanger's Card
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/damianstanger/damos-card/blob/master/LICENSE) [![npm version](https://badge.fury.io/js/%40damos-card%2Fcard.svg)](https://www.npmjs.com/package/damos-card)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/damianstanger/damos-card/blob/master/LICENSE) [![npm version](https://badge.fury.io/js/damos-card.svg)](https://badge.fury.io/js/damos-card)
 
 ## Usage
 
